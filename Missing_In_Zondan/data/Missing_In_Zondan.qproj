@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QGen-project version="4.0.0 beta 1">
+  <Structure>
+    <Folder name="Главное меню">
+      <Location name="Меню"/>
+      <Location name="Продолжить"/>
+      <Location name="Настройки"/>
+      <Location name="Размер_текста"/>
+      <Location name="Шрифт_текста"/>
+      <Location name="Звук"/>
+      <Location name="Темы"/>
+      <Location name="Авторы"/>
+      <Location name="Примечание"/>
+      <Location name="Выход"/>
+      <Location name="счётчик"/>
+    </Folder>
+    <Folder name="Вступление">
+      <Location name="Вступление"/>
+      <Location name="Старт"/>
+      <Location name="Размышления_вступление"/>
+      <Location name="Подвал"/>
+      <Location name="Ну_я_ведь_не_могу_уйти"/>
+      <Location name="В_подвале"/>
+      <Location name="Взять_стулья_и_уйти"/>
+      <Location name="Приблизится_к_двери"/>
+      <Location name="Открыть_дверь"/>
+      <Location name="Закрыть_дверь_и_уйти"/>
+      <Location name="Вернуться_к-двери"/>
+      <Location name="Сделать_шаг_вперед"/>
+    </Folder>
+    <Folder name="Концовка ноль">
+      <Location name="Нулевая_концовка"/>
+      <Location name="Концовка0"/>
+    </Folder>
+    <Folder name="Глава 1">
+      <Location name="Глава_1"/>
+      <Location name="Новый_мир"/>
+      <Location name="Стартовый_скелет"/>
+      <Location name="Ручей1"/>
+      <Location name="Отдохнуть_возле_ручейка"/>
+      <Location name="Попить_воды"/>
+      <Location name="Попить_воды_и_отдохнуть"/>
+      <Location name="Побежать_за_мышкой"/>
+      <Location name="Cхватить_мышку"/>
+      <Location name="Концовка_1"/>
+      <Location name="Продолжить_свой_путь"/>
+    </Folder>
+    <Folder name="Характеристики">
+      <Location name="Характеристики"/>
+      <Location name="Время"/>
+    </Folder>
+  </Structure>
+</QGen-project>
